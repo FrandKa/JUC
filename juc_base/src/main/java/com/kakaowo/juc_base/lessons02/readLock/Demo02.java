@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.lessons02;
+package com.kakaowo.juc_base.lessons02.readLock;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 

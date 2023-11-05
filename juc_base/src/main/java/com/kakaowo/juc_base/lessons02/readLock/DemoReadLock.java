@@ -1,6 +1,4 @@
-package com.kakaowo.juc_base.lessons02;
-
-import java.util.concurrent.FutureTask;
+package com.kakaowo.juc_base.lessons02.readLock;
 
 /**
  * @program: juc_part
