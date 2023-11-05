@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.demo01;
+package com.kakaowo.juc_base.demo.demo01;
 
 /**
  * @program: juc_part

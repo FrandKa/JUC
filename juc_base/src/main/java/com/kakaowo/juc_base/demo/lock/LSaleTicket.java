@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.lock;
+package com.kakaowo.juc_base.demo.lock;
 
 import java.util.concurrent.locks.ReentrantLock;
 

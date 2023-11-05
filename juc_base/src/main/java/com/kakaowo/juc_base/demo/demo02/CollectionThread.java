@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.demo02;
+package com.kakaowo.juc_base.demo.demo02;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;

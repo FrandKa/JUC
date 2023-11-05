@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.notify;
+package com.kakaowo.juc_base.demo.notify;
 
 /**
  * @program: juc_part

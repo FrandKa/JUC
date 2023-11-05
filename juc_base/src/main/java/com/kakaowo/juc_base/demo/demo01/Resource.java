@@ -1,4 +1,4 @@
-package com.kakaowo.juc_base.demo01;
+package com.kakaowo.juc_base.demo.demo01;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

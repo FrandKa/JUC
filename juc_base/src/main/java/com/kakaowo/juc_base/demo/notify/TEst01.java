@@ -1,6 +1,4 @@
-package com.kakaowo.juc_base.notify;
-
-import java.util.Objects;
+package com.kakaowo.juc_base.demo.notify;
 
 /**
  * @program: juc_part
