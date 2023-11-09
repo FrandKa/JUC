@@ -26,7 +26,6 @@ public class Demo02 {
         System.out.println("queue.add(\"c\") = " + queue.add("c"));
         // Exception in thread "main" java.lang.IllegalStateException: Queue full
         System.out.println("queue.element() = " + queue.element());
-//        System.out.println("queue.add(\"a\") = " + queue.add("a"));
         System.out.println("queue.remove() = " + queue.remove());
         System.out.println("queue.remove() = " + queue.remove());
         System.out.println("queue.remove() = " + queue.remove());
@@ -63,7 +62,7 @@ public class Demo02 {
         System.out.println("queue.offer(\"b\") = " + queue.offer("b", 3L, TimeUnit.MICROSECONDS));
         System.out.println("queue.offer(\"c\") = " + queue.offer("c", 3L, TimeUnit.MICROSECONDS));
         System.out.println("queue.offer(\"w\") = " + queue.offer("w", 3L, TimeUnit.SECONDS));
-//        System.out.println("queue.poll() = " + queue.poll());
+        System.out.println("queue.poll() = " + queue.poll());
 //        System.out.println("queue.poll() = " + queue.poll());
 //        System.out.println("queue.poll() = " + queue.poll());
 //        System.out.println("queue.poll() = " + queue.poll());

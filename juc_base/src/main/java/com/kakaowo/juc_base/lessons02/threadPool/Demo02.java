@@ -20,9 +20,9 @@ public class Demo02 {
         //    BlockingQueue<Runnable> workQueue, // 任务队列
         //    ThreadFactory threadFactory,    // 线程工厂
         //    RejectedExecutionHandler handler // 拒绝策略
-        //) {
+        // ) {
         //    // 构造函数实现代码
-        //}
+        // }
         ThreadPoolExecutor threadPoolExecutor = new ThreadPoolExecutor(
                 20, // 常驻线程数量(核心)
                 30, // 最大线程数量
