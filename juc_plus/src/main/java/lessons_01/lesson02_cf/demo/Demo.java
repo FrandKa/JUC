@@ -1,4 +1,4 @@
-package lessons_01.lesson02.demo;
+package lessons_01.lesson02_cf.demo;
 
 /**
  * @program: juc_part
