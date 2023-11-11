@@ -20,9 +20,10 @@ public class Demo03 {
                 }
 
                 try {
-                    TimeUnit.MILLISECONDS.sleep(200);
+                    TimeUnit.MILLISECONDS.sleep(1);
                 } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
+//                    throw new RuntimeException(e);
+                    Thread.currentThread().interrupt(); // 这里会清除状态, 所以需要再调用一次;
                 }
 
                 System.out.println("--- work");
