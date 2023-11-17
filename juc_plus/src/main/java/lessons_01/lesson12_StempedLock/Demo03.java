@@ -75,7 +75,7 @@ public class Demo03 {
         }, "readThread").start();
 
         try {
-            TimeUnit.SECONDS.sleep(1);
+            TimeUnit.SECONDS.sleep(6);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
